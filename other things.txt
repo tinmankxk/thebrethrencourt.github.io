@@ -1,0 +1,15 @@
+<p><script type="text/javascript" src="http://discord.deliriousdrunkards.com/discord.min.js"></script>
+<script type="text/javascript">
+    discordWidget.init({
+        serverId: '185651263541608448',
+        title: 'The Brethren Chat',
+        join: false,
+        alphabetical: false,
+        theme: 'dark',
+        hideChannels: ['Channel Name 1', 'Channel Name 2'],
+        showAllUsers: true,
+        allUsersDefaultState: true
+    });
+    discordWidget.render();
+</script>
+<div class="discord-widget"></div></p>
